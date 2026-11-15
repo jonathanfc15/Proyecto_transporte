@@ -1,0 +1,1 @@
+{"name":"transporte","version":"1.0.0","private":true,"main":"dist/src/index.js","types":"dist/src/index.d.ts","engines":{"node":">=20"},"scripts":{"build":"tsc -p tsconfig.json","test":"npm run build && node --test dist/Test/**/*.test.js","start":"node dist/src/main.js"},"devDependencies":{"@types/node":"^22.10.2","typescript":"^5.7.2"}}

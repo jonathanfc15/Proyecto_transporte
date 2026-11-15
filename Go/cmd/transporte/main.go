@@ -1,0 +1,3 @@
+package main
+import("encoding/json";"flag";"fmt";"os";"transporte/Internal/iodatos";"transporte/Internal/procesador")
+func main(){r:=flag.String("red","","red");s:=flag.String("solicitudes","","solicitudes");v:=flag.String("vehiculos","","vehiculos");flag.Parse();if *r==""||*s==""||*v==""{fmt.Fprintln(os.Stderr,"faltan argumentos");os.Exit(2)};g,e:=iodatos.CargarGrafo(*r);if e!=nil{panic(e)};ss,e:=iodatos.CargarSolicitudes(*s);if e!=nil{panic(e)};vv,e:=iodatos.CargarVehiculos(*v);if e!=nil{panic(e)};b,_:=json.MarshalIndent(procesador.Procesar(g,ss,vv),"","  ");fmt.Println(string(b))}

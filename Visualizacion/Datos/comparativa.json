@@ -1,0 +1,1 @@
+{"casos":[{"caso":"Pequeñas"},{"caso":"Medianas"},{"caso":"Grandes"}],"implementaciones":[{"nombre":"Python","tiempos":[0.42,0.81,1.24]},{"nombre":"Go","tiempos":[0.18,0.31,0.57]},{"nombre":"TypeScript","tiempos":[0.55,1.02,1.68]}]}
