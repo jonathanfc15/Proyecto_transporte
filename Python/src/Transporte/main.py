@@ -1,16 +1,30 @@
-# This is a sample Python script.
+import argparse
+import json
+import sys
+from pathlib import Path
 
-# Press Ctrl+F5 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+if __package__ in (None, ""):
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+    from Transporte.io_datos import cargar_grafo, cargar_solicitudes, cargar_vehiculos
+    from Transporte.procesador import procesar
+else:
+    from .io_datos import cargar_grafo, cargar_solicitudes, cargar_vehiculos
+    from .procesador import procesar
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press F9 to toggle the breakpoint.
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Procesador de transporte")
+    parser.add_argument("--red", required=True)
+    parser.add_argument("--solicitudes", required=True)
+    parser.add_argument("--vehiculos", required=True)
+    args = parser.parse_args()
+    resultado = procesar(
+        cargar_grafo(args.red),
+        cargar_solicitudes(args.solicitudes),
+        cargar_vehiculos(args.vehiculos),
+    )
+    print(json.dumps(resultado.a_dict(), ensure_ascii=False, indent=2))
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+if __name__ == "__main__":
+    main()

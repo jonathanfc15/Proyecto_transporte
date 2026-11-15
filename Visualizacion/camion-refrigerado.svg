@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+<rect width="640" height="360" fill="#cffafe"/><rect y="245" width="640" height="115" fill="#475569"/>
+<rect x="63" y="96" width="365" height="153" rx="15" fill="#e0f2fe" stroke="#0e7490" stroke-width="8"/>
+<path d="M428 165h95l59 57v27H428z" fill="#06b6d4" stroke="#155e75" stroke-width="8"/>
+<path d="M84 118h325v42H84z" fill="#0891b2"/><text x="247" y="147" fill="white" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">REFRIGERADO</text>
+<path d="M180 190h120M240 160v70M197 175l86 58M283 175l-86 58" stroke="#0891b2" stroke-width="8" opacity=".65"/>
+<rect x="458" y="180" width="56" height="37" fill="#bae6fd"/><circle cx="166" cy="267" r="35" fill="#0f172a"/><circle cx="166" cy="267" r="14" fill="#cbd5e1"/><circle cx="500" cy="267" r="35" fill="#0f172a"/><circle cx="500" cy="267" r="14" fill="#cbd5e1"/>
+</svg>

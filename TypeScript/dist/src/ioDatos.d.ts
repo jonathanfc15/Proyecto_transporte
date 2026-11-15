@@ -1,0 +1,11 @@
+import { Grafo } from "./grafo";
+import { Solicitud, Vehiculo } from "./modelos";
+export declare function cargar_json(ruta: string): unknown;
+export declare function cargar_grafo(ruta: string): Grafo;
+export declare function cargar_solicitudes(ruta: string): Solicitud[];
+export declare function cargar_vehiculos(ruta: string): Vehiculo[];
+export declare function guardar_json(ruta: string, datos: unknown): void;
+export declare const leer_json: typeof cargar_json;
+export declare const leer_red: typeof cargar_grafo;
+export declare const leer_solicitudes: typeof cargar_solicitudes;
+export declare const leer_vehiculos: typeof cargar_vehiculos;

@@ -1,0 +1,18 @@
+{
+  "solicitudes": [
+    {
+      "id": "S1",
+      "origen": "A",
+      "destino": "C",
+      "peso": 2,
+      "prioridad": 1
+    },
+    {
+      "id": "S2",
+      "origen": "B",
+      "destino": "C",
+      "peso": 1,
+      "prioridad": 2
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "vehiculos": [
+    {
+      "id": "V1",
+      "origen": "A",
+      "capacidad": 4,
+      "velocidad": 1,
+      "disponible": true
+    },
+    {
+      "id": "V2",
+      "origen": "B",
+      "capacidad": 8,
+      "velocidad": 1,
+      "disponible": true
+    }
+  ]
+}

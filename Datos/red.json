@@ -1,0 +1,30 @@
+{
+  "nodos": [
+    {"id": "A", "nombre": "Terminal A"},
+    {"id": "B", "nombre": "Terminal B"},
+    {"id": "C", "nombre": "Terminal C"}
+  ],
+  "conexiones": [
+    {
+      "origen": "A",
+      "destino": "B",
+      "distancia": 4,
+      "tiempo": 10,
+      "bidireccional": true
+    },
+    {
+      "origen": "B",
+      "destino": "C",
+      "distancia": 3,
+      "tiempo": 8,
+      "bidireccional": true
+    },
+    {
+      "origen": "A",
+      "destino": "C",
+      "distancia": 10,
+      "tiempo": 25,
+      "bidireccional": true
+    }
+  ]
+}

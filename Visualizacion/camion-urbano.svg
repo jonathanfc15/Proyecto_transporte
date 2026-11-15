@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+<rect width="640" height="360" fill="#dbeafe"/><rect y="245" width="640" height="115" fill="#334155"/>
+<rect x="74" y="106" width="355" height="143" rx="14" fill="#f8fafc" stroke="#1e3a8a" stroke-width="8"/>
+<path d="M429 165h92l58 57v27H429z" fill="#2563eb" stroke="#1e3a8a" stroke-width="8"/>
+<rect x="455" y="178" width="54" height="39" rx="5" fill="#bfdbfe"/><path d="M522 180l37 38h-37z" fill="#bfdbfe"/>
+<rect x="105" y="133" width="292" height="48" rx="8" fill="#2563eb"/><text x="251" y="166" fill="white" text-anchor="middle" font-family="Arial" font-size="26" font-weight="bold">REPARTO URBANO</text>
+<circle cx="174" cy="264" r="34" fill="#0f172a"/><circle cx="174" cy="264" r="14" fill="#cbd5e1"/><circle cx="502" cy="264" r="34" fill="#0f172a"/><circle cx="502" cy="264" r="14" fill="#cbd5e1"/>
+</svg>

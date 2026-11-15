@@ -1,0 +1,1 @@
+{"implementacion":"Go","casos":["pequenas","medianas","grandes"],"tiempos_ms":[0.18,0.31,0.57],"determinista":true}

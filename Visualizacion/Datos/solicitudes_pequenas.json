@@ -1,0 +1,1 @@
+{"solicitudes":[{"id":"S1","origen":"A","destino":"C","prioridad":"alta","criterio":"tiempo","trafico":"bajo","pasajeros":2},{"id":"S2","origen":"B","destino":"C","prioridad":"media","criterio":"distancia","trafico":"bajo","pasajeros":1}]}

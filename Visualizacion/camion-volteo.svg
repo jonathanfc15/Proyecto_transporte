@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+<rect width="640" height="360" fill="#fed7aa"/><rect y="245" width="640" height="115" fill="#92400e"/>
+<path d="M75 132l290-55 67 91-334 58z" fill="#f59e0b" stroke="#78350f" stroke-width="9"/>
+<path d="M399 171h93l63 51v27H399z" fill="#fbbf24" stroke="#78350f" stroke-width="8"/>
+<path d="M120 144l225-42 32 42-244 42z" fill="#fcd34d"/><text x="235" y="160" fill="#78350f" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold" transform="rotate(-10 235 160)">VOLTEO</text>
+<rect x="425" y="184" width="55" height="34" fill="#fde68a"/><circle cx="171" cy="267" r="35" fill="#1c1917"/><circle cx="171" cy="267" r="14" fill="#d6d3d1"/><circle cx="500" cy="267" r="35" fill="#1c1917"/><circle cx="500" cy="267" r="14" fill="#d6d3d1"/>
+</svg>
