@@ -1,23 +1,41 @@
-"""Benchmark pequeño y reproducible de la fase 1."""
+"""Benchmark reproducible de procesamiento completo."""
 import json
 import time
 from pathlib import Path
 import sys
 
+raiz = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(Path(__file__).parent / "src"))
-from Transporte.grafo import Grafo
+from Transporte.io_datos import cargar_grafo, cargar_solicitudes, cargar_vehiculos
+from Transporte.procesador import procesar
 
 
-def ejecutar(repeticiones: int = 1000) -> dict:
-    grafo = Grafo()
-    for i in range(100):
-        grafo.agregar_conexion(str(i), str(i + 1), 1)
+def ejecutar(ruta_solicitudes):
     inicio = time.perf_counter()
-    for _ in range(repeticiones):
-        grafo.ruta_minima("0", "100")
-    transcurrido = time.perf_counter() - inicio
-    return {"repeticiones": repeticiones, "segundos": transcurrido}
+    resultado = procesar(
+        cargar_grafo(raiz / "Datos" / "red.json"),
+        cargar_solicitudes(ruta_solicitudes),
+        cargar_vehiculos(raiz / "Datos" / "vehiculo.json"),
+        "secuencial",
+    )
+    segundos = time.perf_counter() - inicio
+    return {
+        "lenguaje": "Python",
+        "solicitudes": resultado["resumen"]["total"],
+        "modo": "secuencial",
+        "tiempo_ms": round(segundos * 1000, 3),
+    }
 
 
 if __name__ == "__main__":
-    print(json.dumps(ejecutar(), ensure_ascii=False, indent=2))
+    resultados = []
+    for nombre, tamano in (
+        ("pequenas", "pequenas"),
+        ("medianas", "medianas"),
+        ("grandes", "grandes"),
+    ):
+        ruta = raiz / "Datos" / f"solicitudes_{nombre}.json"
+        resultado = ejecutar(ruta)
+        resultado["tamano"] = tamano
+        resultados.append(resultado)
+    print(json.dumps(resultados, ensure_ascii=False, indent=2))

@@ -1,0 +1,218 @@
+{
+  "resumen": {
+    "total": 10,
+    "asignadas": 7,
+    "en_cola": 3,
+    "rechazadas": 0,
+    "fuera_de_plazo": 4,
+    "distancia_promedio_km": 31.07,
+    "tiempo_promedio_min": 69.79,
+    "costo_promedio": 21.33,
+    "vehiculos_ocupados": 8,
+    "vehiculos_disponibles": 0,
+    "uso_vehiculos_pct": 100.0
+  },
+  "solicitudes": [
+    {
+      "id": "S00001",
+      "estado": "en_cola",
+      "prioridad": "baja",
+      "origen": "G",
+      "destino": "H",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "vehiculo": null,
+      "ruta": [
+        "G",
+        "J",
+        "H"
+      ],
+      "distancia_km": 39.1,
+      "tiempo_min": 51.0,
+      "costo": 26.2,
+      "dentro_de_plazo": true,
+      "error": null
+    },
+    {
+      "id": "S00002",
+      "estado": "asignada",
+      "prioridad": "critica",
+      "origen": "J",
+      "destino": "E",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "vehiculo": "V01",
+      "ruta": [
+        "J",
+        "I",
+        "E"
+      ],
+      "distancia_km": 26.5,
+      "tiempo_min": 72.0,
+      "costo": 18.3,
+      "dentro_de_plazo": false,
+      "error": null
+    },
+    {
+      "id": "S00003",
+      "estado": "en_cola",
+      "prioridad": "media",
+      "origen": "B",
+      "destino": "H",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "vehiculo": null,
+      "ruta": [
+        "B",
+        "H"
+      ],
+      "distancia_km": 23.0,
+      "tiempo_min": 62.0,
+      "costo": 14.5,
+      "dentro_de_plazo": true,
+      "error": null
+    },
+    {
+      "id": "S00004",
+      "estado": "en_cola",
+      "prioridad": "media",
+      "origen": "C",
+      "destino": "E",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "vehiculo": null,
+      "ruta": [
+        "C",
+        "B",
+        "E"
+      ],
+      "distancia_km": 24.7,
+      "tiempo_min": 35.0,
+      "costo": 17.0,
+      "dentro_de_plazo": true,
+      "error": null
+    },
+    {
+      "id": "S00005",
+      "estado": "asignada",
+      "prioridad": "critica",
+      "origen": "H",
+      "destino": "A",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "vehiculo": "V02",
+      "ruta": [
+        "H",
+        "B",
+        "A"
+      ],
+      "distancia_km": 35.5,
+      "tiempo_min": 73.5,
+      "costo": 23.0,
+      "dentro_de_plazo": false,
+      "error": null
+    },
+    {
+      "id": "S00006",
+      "estado": "asignada",
+      "prioridad": "alta",
+      "origen": "D",
+      "destino": "F",
+      "criterio": "costo",
+      "trafico": "alto",
+      "vehiculo": "V08",
+      "ruta": [
+        "D",
+        "E",
+        "I",
+        "F"
+      ],
+      "distancia_km": 47.1,
+      "tiempo_min": 128.0,
+      "costo": 31.2,
+      "dentro_de_plazo": false,
+      "error": null
+    },
+    {
+      "id": "S00007",
+      "estado": "asignada",
+      "prioridad": "critica",
+      "origen": "A",
+      "destino": "F",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "vehiculo": "V03",
+      "ruta": [
+        "A",
+        "B",
+        "C",
+        "F"
+      ],
+      "distancia_km": 47.5,
+      "tiempo_min": 99.0,
+      "costo": 31.8,
+      "dentro_de_plazo": false,
+      "error": null
+    },
+    {
+      "id": "S00008",
+      "estado": "asignada",
+      "prioridad": "critica",
+      "origen": "G",
+      "destino": "B",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "vehiculo": "V04",
+      "ruta": [
+        "G",
+        "E",
+        "B"
+      ],
+      "distancia_km": 20.3,
+      "tiempo_min": 58.0,
+      "costo": 15.0,
+      "dentro_de_plazo": true,
+      "error": null
+    },
+    {
+      "id": "S00009",
+      "estado": "asignada",
+      "prioridad": "critica",
+      "origen": "G",
+      "destino": "B",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "vehiculo": "V05",
+      "ruta": [
+        "G",
+        "E",
+        "B"
+      ],
+      "distancia_km": 20.3,
+      "tiempo_min": 29.0,
+      "costo": 15.0,
+      "dentro_de_plazo": true,
+      "error": null
+    },
+    {
+      "id": "S00010",
+      "estado": "asignada",
+      "prioridad": "media",
+      "origen": "G",
+      "destino": "B",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "vehiculo": "V07",
+      "ruta": [
+        "G",
+        "E",
+        "B"
+      ],
+      "distancia_km": 20.3,
+      "tiempo_min": 29.0,
+      "costo": 15.0,
+      "dentro_de_plazo": true,
+      "error": null
+    }
+  ]
+}

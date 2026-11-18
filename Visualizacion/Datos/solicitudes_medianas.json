@@ -1,1 +1,9004 @@
-{"solicitudes":[]}
+{
+  "solicitudes": [
+    {
+      "id": "S00001",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00002",
+      "origen": "J",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00003",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00004",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00005",
+      "origen": "H",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00006",
+      "origen": "D",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00007",
+      "origen": "A",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00008",
+      "origen": "G",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00009",
+      "origen": "G",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00010",
+      "origen": "G",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00011",
+      "origen": "I",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00012",
+      "origen": "C",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00013",
+      "origen": "B",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00014",
+      "origen": "E",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00015",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00016",
+      "origen": "F",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00017",
+      "origen": "H",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00018",
+      "origen": "B",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00019",
+      "origen": "I",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00020",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00021",
+      "origen": "C",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00022",
+      "origen": "I",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00023",
+      "origen": "G",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00024",
+      "origen": "D",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00025",
+      "origen": "G",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00026",
+      "origen": "D",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00027",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00028",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00029",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00030",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00031",
+      "origen": "J",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00032",
+      "origen": "G",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00033",
+      "origen": "J",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00034",
+      "origen": "H",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00035",
+      "origen": "J",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00036",
+      "origen": "C",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00037",
+      "origen": "I",
+      "destino": "H",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00038",
+      "origen": "A",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00039",
+      "origen": "C",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00040",
+      "origen": "I",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00041",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00042",
+      "origen": "I",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00043",
+      "origen": "E",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00044",
+      "origen": "H",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00045",
+      "origen": "H",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00046",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00047",
+      "origen": "A",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00048",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00049",
+      "origen": "G",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00050",
+      "origen": "D",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00051",
+      "origen": "J",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00052",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00053",
+      "origen": "D",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00054",
+      "origen": "E",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00055",
+      "origen": "B",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00056",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00057",
+      "origen": "H",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00058",
+      "origen": "G",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00059",
+      "origen": "H",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00060",
+      "origen": "D",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00061",
+      "origen": "J",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00062",
+      "origen": "F",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00063",
+      "origen": "H",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00064",
+      "origen": "I",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00065",
+      "origen": "D",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00066",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00067",
+      "origen": "A",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00068",
+      "origen": "J",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00069",
+      "origen": "G",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00070",
+      "origen": "H",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00071",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00072",
+      "origen": "E",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00073",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00074",
+      "origen": "I",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00075",
+      "origen": "E",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00076",
+      "origen": "I",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00077",
+      "origen": "A",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00078",
+      "origen": "D",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00079",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00080",
+      "origen": "F",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00081",
+      "origen": "C",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00082",
+      "origen": "H",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00083",
+      "origen": "D",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00084",
+      "origen": "H",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00085",
+      "origen": "C",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00086",
+      "origen": "I",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00087",
+      "origen": "C",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00088",
+      "origen": "A",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00089",
+      "origen": "D",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00090",
+      "origen": "A",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00091",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00092",
+      "origen": "I",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00093",
+      "origen": "J",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00094",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00095",
+      "origen": "A",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00096",
+      "origen": "D",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00097",
+      "origen": "G",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00098",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00099",
+      "origen": "J",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00100",
+      "origen": "B",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00101",
+      "origen": "F",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00102",
+      "origen": "C",
+      "destino": "H",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00103",
+      "origen": "F",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00104",
+      "origen": "G",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00105",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00106",
+      "origen": "F",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00107",
+      "origen": "G",
+      "destino": "C",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00108",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00109",
+      "origen": "B",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00110",
+      "origen": "E",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00111",
+      "origen": "E",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00112",
+      "origen": "A",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00113",
+      "origen": "J",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00114",
+      "origen": "J",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00115",
+      "origen": "A",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00116",
+      "origen": "J",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00117",
+      "origen": "G",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00118",
+      "origen": "A",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00119",
+      "origen": "D",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00120",
+      "origen": "D",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00121",
+      "origen": "C",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00122",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00123",
+      "origen": "C",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00124",
+      "origen": "A",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00125",
+      "origen": "J",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00126",
+      "origen": "E",
+      "destino": "H",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00127",
+      "origen": "I",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00128",
+      "origen": "D",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00129",
+      "origen": "B",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00130",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00131",
+      "origen": "D",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00132",
+      "origen": "G",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00133",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00134",
+      "origen": "E",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00135",
+      "origen": "H",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00136",
+      "origen": "J",
+      "destino": "C",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00137",
+      "origen": "H",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00138",
+      "origen": "I",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00139",
+      "origen": "H",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00140",
+      "origen": "B",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00141",
+      "origen": "J",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00142",
+      "origen": "B",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00143",
+      "origen": "H",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00144",
+      "origen": "D",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00145",
+      "origen": "J",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00146",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00147",
+      "origen": "C",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00148",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00149",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00150",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00151",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00152",
+      "origen": "G",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00153",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00154",
+      "origen": "D",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00155",
+      "origen": "E",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00156",
+      "origen": "G",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00157",
+      "origen": "J",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00158",
+      "origen": "G",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00159",
+      "origen": "J",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00160",
+      "origen": "B",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00161",
+      "origen": "G",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00162",
+      "origen": "H",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00163",
+      "origen": "J",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00164",
+      "origen": "A",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00165",
+      "origen": "D",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00166",
+      "origen": "A",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00167",
+      "origen": "I",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00168",
+      "origen": "I",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00169",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00170",
+      "origen": "B",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00171",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00172",
+      "origen": "B",
+      "destino": "F",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00173",
+      "origen": "H",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00174",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00175",
+      "origen": "E",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00176",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00177",
+      "origen": "J",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00178",
+      "origen": "H",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00179",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00180",
+      "origen": "J",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00181",
+      "origen": "E",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00182",
+      "origen": "D",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00183",
+      "origen": "G",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00184",
+      "origen": "C",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00185",
+      "origen": "I",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00186",
+      "origen": "C",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00187",
+      "origen": "J",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00188",
+      "origen": "D",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00189",
+      "origen": "H",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00190",
+      "origen": "D",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00191",
+      "origen": "J",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00192",
+      "origen": "C",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00193",
+      "origen": "F",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00194",
+      "origen": "E",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00195",
+      "origen": "E",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00196",
+      "origen": "F",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00197",
+      "origen": "D",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00198",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00199",
+      "origen": "A",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00200",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00201",
+      "origen": "J",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00202",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00203",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00204",
+      "origen": "G",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00205",
+      "origen": "D",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00206",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00207",
+      "origen": "E",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00208",
+      "origen": "I",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00209",
+      "origen": "H",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00210",
+      "origen": "J",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00211",
+      "origen": "I",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00212",
+      "origen": "A",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00213",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00214",
+      "origen": "J",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00215",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00216",
+      "origen": "D",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00217",
+      "origen": "E",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00218",
+      "origen": "I",
+      "destino": "F",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00219",
+      "origen": "I",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00220",
+      "origen": "J",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00221",
+      "origen": "F",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00222",
+      "origen": "I",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00223",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00224",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00225",
+      "origen": "D",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00226",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00227",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00228",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00229",
+      "origen": "E",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00230",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00231",
+      "origen": "C",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00232",
+      "origen": "F",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00233",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00234",
+      "origen": "C",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00235",
+      "origen": "E",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00236",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00237",
+      "origen": "A",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00238",
+      "origen": "J",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00239",
+      "origen": "J",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00240",
+      "origen": "C",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00241",
+      "origen": "J",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00242",
+      "origen": "G",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00243",
+      "origen": "D",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00244",
+      "origen": "J",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00245",
+      "origen": "F",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00246",
+      "origen": "I",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00247",
+      "origen": "A",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00248",
+      "origen": "A",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00249",
+      "origen": "A",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00250",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00251",
+      "origen": "E",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00252",
+      "origen": "E",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00253",
+      "origen": "I",
+      "destino": "C",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00254",
+      "origen": "H",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00255",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00256",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00257",
+      "origen": "C",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00258",
+      "origen": "G",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00259",
+      "origen": "B",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00260",
+      "origen": "C",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00261",
+      "origen": "I",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00262",
+      "origen": "H",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00263",
+      "origen": "D",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00264",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00265",
+      "origen": "F",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00266",
+      "origen": "E",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00267",
+      "origen": "H",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00268",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00269",
+      "origen": "F",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00270",
+      "origen": "J",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00271",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00272",
+      "origen": "A",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00273",
+      "origen": "B",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00274",
+      "origen": "A",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00275",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00276",
+      "origen": "G",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00277",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00278",
+      "origen": "B",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00279",
+      "origen": "F",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00280",
+      "origen": "D",
+      "destino": "F",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00281",
+      "origen": "D",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00282",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00283",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00284",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00285",
+      "origen": "D",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00286",
+      "origen": "E",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00287",
+      "origen": "D",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00288",
+      "origen": "B",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00289",
+      "origen": "C",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00290",
+      "origen": "E",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00291",
+      "origen": "I",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00292",
+      "origen": "H",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00293",
+      "origen": "A",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00294",
+      "origen": "C",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00295",
+      "origen": "B",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00296",
+      "origen": "D",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00297",
+      "origen": "A",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00298",
+      "origen": "G",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00299",
+      "origen": "B",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00300",
+      "origen": "B",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00301",
+      "origen": "H",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00302",
+      "origen": "I",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00303",
+      "origen": "B",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00304",
+      "origen": "H",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00305",
+      "origen": "G",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00306",
+      "origen": "D",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00307",
+      "origen": "J",
+      "destino": "H",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00308",
+      "origen": "F",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00309",
+      "origen": "D",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00310",
+      "origen": "B",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00311",
+      "origen": "J",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00312",
+      "origen": "H",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00313",
+      "origen": "C",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00314",
+      "origen": "I",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00315",
+      "origen": "D",
+      "destino": "C",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00316",
+      "origen": "C",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00317",
+      "origen": "A",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00318",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00319",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00320",
+      "origen": "A",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00321",
+      "origen": "D",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00322",
+      "origen": "G",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00323",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00324",
+      "origen": "E",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00325",
+      "origen": "J",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00326",
+      "origen": "I",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00327",
+      "origen": "F",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00328",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00329",
+      "origen": "B",
+      "destino": "F",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00330",
+      "origen": "F",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00331",
+      "origen": "E",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00332",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00333",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00334",
+      "origen": "F",
+      "destino": "C",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00335",
+      "origen": "D",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00336",
+      "origen": "H",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00337",
+      "origen": "B",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00338",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00339",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00340",
+      "origen": "B",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00341",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00342",
+      "origen": "E",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00343",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00344",
+      "origen": "F",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00345",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00346",
+      "origen": "G",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00347",
+      "origen": "H",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00348",
+      "origen": "A",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00349",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00350",
+      "origen": "B",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00351",
+      "origen": "H",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00352",
+      "origen": "G",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00353",
+      "origen": "H",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00354",
+      "origen": "C",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00355",
+      "origen": "E",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00356",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00357",
+      "origen": "D",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00358",
+      "origen": "G",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00359",
+      "origen": "D",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00360",
+      "origen": "J",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00361",
+      "origen": "F",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00362",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00363",
+      "origen": "E",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00364",
+      "origen": "I",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00365",
+      "origen": "G",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00366",
+      "origen": "C",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00367",
+      "origen": "I",
+      "destino": "H",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00368",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00369",
+      "origen": "G",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00370",
+      "origen": "J",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00371",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00372",
+      "origen": "H",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00373",
+      "origen": "A",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00374",
+      "origen": "I",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00375",
+      "origen": "H",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00376",
+      "origen": "H",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00377",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00378",
+      "origen": "I",
+      "destino": "F",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00379",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00380",
+      "origen": "I",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00381",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00382",
+      "origen": "C",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00383",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00384",
+      "origen": "C",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00385",
+      "origen": "I",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00386",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00387",
+      "origen": "H",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00388",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00389",
+      "origen": "B",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00390",
+      "origen": "I",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00391",
+      "origen": "J",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00392",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00393",
+      "origen": "I",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00394",
+      "origen": "A",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00395",
+      "origen": "I",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00396",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00397",
+      "origen": "F",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00398",
+      "origen": "C",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00399",
+      "origen": "D",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00400",
+      "origen": "A",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00401",
+      "origen": "H",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00402",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00403",
+      "origen": "B",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00404",
+      "origen": "E",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00405",
+      "origen": "J",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00406",
+      "origen": "D",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00407",
+      "origen": "C",
+      "destino": "F",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00408",
+      "origen": "I",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00409",
+      "origen": "G",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00410",
+      "origen": "F",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00411",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00412",
+      "origen": "F",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00413",
+      "origen": "D",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00414",
+      "origen": "A",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00415",
+      "origen": "G",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00416",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00417",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00418",
+      "origen": "B",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00419",
+      "origen": "J",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00420",
+      "origen": "H",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00421",
+      "origen": "G",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00422",
+      "origen": "H",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00423",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00424",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00425",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00426",
+      "origen": "H",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00427",
+      "origen": "E",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00428",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00429",
+      "origen": "E",
+      "destino": "H",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00430",
+      "origen": "J",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00431",
+      "origen": "B",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00432",
+      "origen": "G",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00433",
+      "origen": "G",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00434",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00435",
+      "origen": "I",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00436",
+      "origen": "I",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00437",
+      "origen": "F",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00438",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00439",
+      "origen": "F",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00440",
+      "origen": "G",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00441",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00442",
+      "origen": "A",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00443",
+      "origen": "H",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00444",
+      "origen": "A",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00445",
+      "origen": "H",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00446",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00447",
+      "origen": "I",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00448",
+      "origen": "I",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00449",
+      "origen": "J",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00450",
+      "origen": "I",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00451",
+      "origen": "J",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00452",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00453",
+      "origen": "E",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00454",
+      "origen": "G",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00455",
+      "origen": "J",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00456",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00457",
+      "origen": "B",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00458",
+      "origen": "G",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00459",
+      "origen": "C",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00460",
+      "origen": "F",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00461",
+      "origen": "B",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00462",
+      "origen": "G",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00463",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00464",
+      "origen": "G",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00465",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00466",
+      "origen": "D",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00467",
+      "origen": "C",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00468",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00469",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00470",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00471",
+      "origen": "B",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00472",
+      "origen": "C",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00473",
+      "origen": "B",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00474",
+      "origen": "C",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00475",
+      "origen": "D",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00476",
+      "origen": "H",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00477",
+      "origen": "C",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00478",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00479",
+      "origen": "H",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00480",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00481",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00482",
+      "origen": "F",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00483",
+      "origen": "D",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00484",
+      "origen": "E",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00485",
+      "origen": "I",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00486",
+      "origen": "I",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00487",
+      "origen": "F",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00488",
+      "origen": "D",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00489",
+      "origen": "G",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00490",
+      "origen": "A",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00491",
+      "origen": "B",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00492",
+      "origen": "I",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00493",
+      "origen": "A",
+      "destino": "H",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00494",
+      "origen": "D",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00495",
+      "origen": "H",
+      "destino": "C",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00496",
+      "origen": "F",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00497",
+      "origen": "E",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00498",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00499",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00500",
+      "origen": "C",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00501",
+      "origen": "B",
+      "destino": "C",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00502",
+      "origen": "A",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00503",
+      "origen": "C",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00504",
+      "origen": "E",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00505",
+      "origen": "H",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00506",
+      "origen": "A",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00507",
+      "origen": "J",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00508",
+      "origen": "I",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00509",
+      "origen": "B",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00510",
+      "origen": "H",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00511",
+      "origen": "H",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00512",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00513",
+      "origen": "J",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00514",
+      "origen": "F",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00515",
+      "origen": "C",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00516",
+      "origen": "D",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00517",
+      "origen": "J",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00518",
+      "origen": "E",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00519",
+      "origen": "E",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00520",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00521",
+      "origen": "H",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00522",
+      "origen": "I",
+      "destino": "F",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00523",
+      "origen": "F",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00524",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00525",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00526",
+      "origen": "C",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00527",
+      "origen": "F",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00528",
+      "origen": "A",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00529",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00530",
+      "origen": "F",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00531",
+      "origen": "J",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00532",
+      "origen": "D",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00533",
+      "origen": "E",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00534",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00535",
+      "origen": "A",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00536",
+      "origen": "E",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00537",
+      "origen": "A",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00538",
+      "origen": "H",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00539",
+      "origen": "I",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00540",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00541",
+      "origen": "A",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00542",
+      "origen": "H",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00543",
+      "origen": "C",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00544",
+      "origen": "J",
+      "destino": "H",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00545",
+      "origen": "E",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00546",
+      "origen": "F",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00547",
+      "origen": "G",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00548",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00549",
+      "origen": "C",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00550",
+      "origen": "D",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00551",
+      "origen": "C",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00552",
+      "origen": "J",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00553",
+      "origen": "J",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00554",
+      "origen": "B",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00555",
+      "origen": "J",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00556",
+      "origen": "D",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00557",
+      "origen": "G",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00558",
+      "origen": "J",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00559",
+      "origen": "C",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00560",
+      "origen": "I",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00561",
+      "origen": "E",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00562",
+      "origen": "G",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00563",
+      "origen": "G",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00564",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00565",
+      "origen": "E",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00566",
+      "origen": "C",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00567",
+      "origen": "J",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00568",
+      "origen": "A",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00569",
+      "origen": "A",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00570",
+      "origen": "C",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00571",
+      "origen": "J",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00572",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00573",
+      "origen": "E",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00574",
+      "origen": "F",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00575",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00576",
+      "origen": "J",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00577",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00578",
+      "origen": "D",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00579",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00580",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00581",
+      "origen": "G",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00582",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00583",
+      "origen": "J",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00584",
+      "origen": "C",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00585",
+      "origen": "J",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00586",
+      "origen": "I",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00587",
+      "origen": "J",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00588",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00589",
+      "origen": "C",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00590",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00591",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00592",
+      "origen": "A",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00593",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00594",
+      "origen": "B",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00595",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00596",
+      "origen": "J",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00597",
+      "origen": "I",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00598",
+      "origen": "G",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00599",
+      "origen": "H",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00600",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00601",
+      "origen": "J",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00602",
+      "origen": "I",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00603",
+      "origen": "F",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00604",
+      "origen": "H",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00605",
+      "origen": "B",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00606",
+      "origen": "F",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00607",
+      "origen": "F",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00608",
+      "origen": "E",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00609",
+      "origen": "D",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00610",
+      "origen": "I",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00611",
+      "origen": "C",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00612",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00613",
+      "origen": "G",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00614",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00615",
+      "origen": "G",
+      "destino": "C",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00616",
+      "origen": "G",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00617",
+      "origen": "A",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00618",
+      "origen": "E",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00619",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00620",
+      "origen": "E",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00621",
+      "origen": "G",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00622",
+      "origen": "I",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00623",
+      "origen": "I",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00624",
+      "origen": "E",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00625",
+      "origen": "D",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00626",
+      "origen": "D",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00627",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00628",
+      "origen": "J",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00629",
+      "origen": "G",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00630",
+      "origen": "J",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00631",
+      "origen": "I",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00632",
+      "origen": "G",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00633",
+      "origen": "C",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00634",
+      "origen": "A",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00635",
+      "origen": "F",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00636",
+      "origen": "I",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00637",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00638",
+      "origen": "C",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00639",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00640",
+      "origen": "J",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00641",
+      "origen": "H",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00642",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00643",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00644",
+      "origen": "J",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00645",
+      "origen": "G",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00646",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00647",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00648",
+      "origen": "H",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00649",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00650",
+      "origen": "J",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00651",
+      "origen": "C",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00652",
+      "origen": "E",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00653",
+      "origen": "C",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00654",
+      "origen": "G",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00655",
+      "origen": "H",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00656",
+      "origen": "E",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00657",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00658",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00659",
+      "origen": "G",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00660",
+      "origen": "D",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00661",
+      "origen": "H",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00662",
+      "origen": "A",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00663",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00664",
+      "origen": "A",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00665",
+      "origen": "B",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00666",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00667",
+      "origen": "I",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00668",
+      "origen": "J",
+      "destino": "F",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00669",
+      "origen": "C",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00670",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00671",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00672",
+      "origen": "F",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00673",
+      "origen": "H",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00674",
+      "origen": "B",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00675",
+      "origen": "F",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00676",
+      "origen": "E",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00677",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00678",
+      "origen": "I",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00679",
+      "origen": "I",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00680",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00681",
+      "origen": "C",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00682",
+      "origen": "I",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00683",
+      "origen": "H",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00684",
+      "origen": "J",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00685",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00686",
+      "origen": "J",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00687",
+      "origen": "E",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00688",
+      "origen": "J",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00689",
+      "origen": "E",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00690",
+      "origen": "D",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00691",
+      "origen": "D",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00692",
+      "origen": "G",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00693",
+      "origen": "B",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00694",
+      "origen": "H",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00695",
+      "origen": "A",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00696",
+      "origen": "D",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00697",
+      "origen": "D",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00698",
+      "origen": "C",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00699",
+      "origen": "G",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00700",
+      "origen": "G",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00701",
+      "origen": "I",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00702",
+      "origen": "D",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00703",
+      "origen": "A",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00704",
+      "origen": "C",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00705",
+      "origen": "I",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00706",
+      "origen": "B",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00707",
+      "origen": "J",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00708",
+      "origen": "J",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00709",
+      "origen": "I",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00710",
+      "origen": "A",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00711",
+      "origen": "H",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00712",
+      "origen": "G",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00713",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00714",
+      "origen": "B",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00715",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00716",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00717",
+      "origen": "F",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00718",
+      "origen": "F",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00719",
+      "origen": "D",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00720",
+      "origen": "A",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00721",
+      "origen": "J",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00722",
+      "origen": "C",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00723",
+      "origen": "D",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00724",
+      "origen": "H",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00725",
+      "origen": "E",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00726",
+      "origen": "J",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00727",
+      "origen": "C",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00728",
+      "origen": "G",
+      "destino": "C",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00729",
+      "origen": "B",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00730",
+      "origen": "H",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00731",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00732",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00733",
+      "origen": "A",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00734",
+      "origen": "A",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00735",
+      "origen": "D",
+      "destino": "C",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00736",
+      "origen": "A",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00737",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00738",
+      "origen": "B",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00739",
+      "origen": "D",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00740",
+      "origen": "B",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00741",
+      "origen": "I",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00742",
+      "origen": "I",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00743",
+      "origen": "H",
+      "destino": "C",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00744",
+      "origen": "A",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00745",
+      "origen": "I",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00746",
+      "origen": "G",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00747",
+      "origen": "F",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00748",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00749",
+      "origen": "A",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00750",
+      "origen": "J",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00751",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00752",
+      "origen": "C",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00753",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00754",
+      "origen": "D",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00755",
+      "origen": "F",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00756",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00757",
+      "origen": "F",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00758",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00759",
+      "origen": "H",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00760",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00761",
+      "origen": "A",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00762",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00763",
+      "origen": "B",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00764",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00765",
+      "origen": "E",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00766",
+      "origen": "I",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00767",
+      "origen": "J",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00768",
+      "origen": "B",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00769",
+      "origen": "F",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00770",
+      "origen": "I",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00771",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00772",
+      "origen": "C",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00773",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00774",
+      "origen": "B",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00775",
+      "origen": "I",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00776",
+      "origen": "J",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00777",
+      "origen": "F",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00778",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00779",
+      "origen": "H",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00780",
+      "origen": "H",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00781",
+      "origen": "D",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00782",
+      "origen": "J",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00783",
+      "origen": "C",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00784",
+      "origen": "A",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00785",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00786",
+      "origen": "B",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00787",
+      "origen": "C",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00788",
+      "origen": "C",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00789",
+      "origen": "I",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00790",
+      "origen": "G",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00791",
+      "origen": "D",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00792",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00793",
+      "origen": "I",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00794",
+      "origen": "I",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00795",
+      "origen": "F",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00796",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00797",
+      "origen": "D",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00798",
+      "origen": "I",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00799",
+      "origen": "C",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00800",
+      "origen": "H",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00801",
+      "origen": "H",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00802",
+      "origen": "G",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00803",
+      "origen": "D",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00804",
+      "origen": "C",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00805",
+      "origen": "J",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00806",
+      "origen": "B",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00807",
+      "origen": "D",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00808",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00809",
+      "origen": "J",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00810",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00811",
+      "origen": "B",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00812",
+      "origen": "G",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00813",
+      "origen": "B",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00814",
+      "origen": "C",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00815",
+      "origen": "E",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00816",
+      "origen": "H",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00817",
+      "origen": "H",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00818",
+      "origen": "D",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00819",
+      "origen": "H",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00820",
+      "origen": "H",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00821",
+      "origen": "F",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00822",
+      "origen": "J",
+      "destino": "F",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00823",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00824",
+      "origen": "G",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00825",
+      "origen": "J",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00826",
+      "origen": "H",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00827",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00828",
+      "origen": "B",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00829",
+      "origen": "F",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00830",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00831",
+      "origen": "A",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00832",
+      "origen": "G",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00833",
+      "origen": "E",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00834",
+      "origen": "I",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00835",
+      "origen": "E",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00836",
+      "origen": "G",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00837",
+      "origen": "E",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00838",
+      "origen": "I",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00839",
+      "origen": "B",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00840",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00841",
+      "origen": "F",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00842",
+      "origen": "E",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00843",
+      "origen": "J",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00844",
+      "origen": "I",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00845",
+      "origen": "I",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00846",
+      "origen": "H",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00847",
+      "origen": "B",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00848",
+      "origen": "H",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00849",
+      "origen": "C",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00850",
+      "origen": "J",
+      "destino": "F",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00851",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00852",
+      "origen": "D",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00853",
+      "origen": "G",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00854",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00855",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00856",
+      "origen": "H",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00857",
+      "origen": "G",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00858",
+      "origen": "F",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00859",
+      "origen": "J",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00860",
+      "origen": "D",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00861",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00862",
+      "origen": "A",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00863",
+      "origen": "G",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00864",
+      "origen": "J",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00865",
+      "origen": "D",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00866",
+      "origen": "C",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00867",
+      "origen": "E",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00868",
+      "origen": "J",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00869",
+      "origen": "B",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00870",
+      "origen": "A",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00871",
+      "origen": "D",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00872",
+      "origen": "C",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00873",
+      "origen": "H",
+      "destino": "D",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00874",
+      "origen": "G",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00875",
+      "origen": "B",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00876",
+      "origen": "I",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00877",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00878",
+      "origen": "G",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00879",
+      "origen": "J",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00880",
+      "origen": "I",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00881",
+      "origen": "C",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00882",
+      "origen": "D",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00883",
+      "origen": "H",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00884",
+      "origen": "F",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00885",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00886",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00887",
+      "origen": "A",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00888",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00889",
+      "origen": "D",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00890",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00891",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00892",
+      "origen": "F",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00893",
+      "origen": "I",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00894",
+      "origen": "G",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00895",
+      "origen": "G",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00896",
+      "origen": "B",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00897",
+      "origen": "A",
+      "destino": "F",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00898",
+      "origen": "E",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00899",
+      "origen": "J",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00900",
+      "origen": "A",
+      "destino": "D",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00901",
+      "origen": "J",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00902",
+      "origen": "A",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00903",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00904",
+      "origen": "E",
+      "destino": "F",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00905",
+      "origen": "I",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00906",
+      "origen": "F",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00907",
+      "origen": "E",
+      "destino": "G",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00908",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00909",
+      "origen": "E",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00910",
+      "origen": "C",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00911",
+      "origen": "H",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00912",
+      "origen": "D",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00913",
+      "origen": "B",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00914",
+      "origen": "B",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00915",
+      "origen": "E",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00916",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00917",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00918",
+      "origen": "E",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00919",
+      "origen": "G",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00920",
+      "origen": "H",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00921",
+      "origen": "H",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00922",
+      "origen": "C",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00923",
+      "origen": "I",
+      "destino": "G",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00924",
+      "origen": "G",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00925",
+      "origen": "C",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00926",
+      "origen": "B",
+      "destino": "J",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00927",
+      "origen": "B",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00928",
+      "origen": "D",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00929",
+      "origen": "G",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00930",
+      "origen": "D",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00931",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00932",
+      "origen": "C",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00933",
+      "origen": "E",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00934",
+      "origen": "J",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00935",
+      "origen": "H",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00936",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00937",
+      "origen": "I",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00938",
+      "origen": "C",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00939",
+      "origen": "A",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00940",
+      "origen": "D",
+      "destino": "I",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00941",
+      "origen": "B",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00942",
+      "origen": "H",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00943",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00944",
+      "origen": "I",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00945",
+      "origen": "G",
+      "destino": "F",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 4
+    },
+    {
+      "id": "S00946",
+      "origen": "A",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00947",
+      "origen": "C",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00948",
+      "origen": "I",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00949",
+      "origen": "A",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00950",
+      "origen": "I",
+      "destino": "G",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00951",
+      "origen": "J",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00952",
+      "origen": "D",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00953",
+      "origen": "B",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00954",
+      "origen": "A",
+      "destino": "D",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00955",
+      "origen": "I",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00956",
+      "origen": "J",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00957",
+      "origen": "D",
+      "destino": "E",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00958",
+      "origen": "F",
+      "destino": "I",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00959",
+      "origen": "D",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00960",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00961",
+      "origen": "H",
+      "destino": "B",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00962",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00963",
+      "origen": "H",
+      "destino": "C",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00964",
+      "origen": "I",
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00965",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00966",
+      "origen": "F",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00967",
+      "origen": "J",
+      "destino": "H",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00968",
+      "origen": "E",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00969",
+      "origen": "H",
+      "destino": "I",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00970",
+      "origen": "A",
+      "destino": "J",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00971",
+      "origen": "I",
+      "destino": "C",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00972",
+      "origen": "E",
+      "destino": "J",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00973",
+      "origen": "E",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00974",
+      "origen": "J",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00975",
+      "origen": "H",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00976",
+      "origen": "D",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00977",
+      "origen": "J",
+      "destino": "C",
+      "prioridad": "alta",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00978",
+      "origen": "F",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00979",
+      "origen": "J",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00980",
+      "origen": "E",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00981",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00982",
+      "origen": "C",
+      "destino": "J",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00983",
+      "origen": "B",
+      "destino": "A",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00984",
+      "origen": "C",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00985",
+      "origen": "A",
+      "destino": "F",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00986",
+      "origen": "J",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00987",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00988",
+      "origen": "J",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "medio",
+      "pasajeros": 2
+    },
+    {
+      "id": "S00989",
+      "origen": "I",
+      "destino": "A",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "bajo",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00990",
+      "origen": "E",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00991",
+      "origen": "E",
+      "destino": "B",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 7
+    },
+    {
+      "id": "S00992",
+      "origen": "A",
+      "destino": "E",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 9
+    },
+    {
+      "id": "S00993",
+      "origen": "J",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 8
+    },
+    {
+      "id": "S00994",
+      "origen": "H",
+      "destino": "G",
+      "prioridad": "baja",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00995",
+      "origen": "C",
+      "destino": "D",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00996",
+      "origen": "B",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 12
+    },
+    {
+      "id": "S00997",
+      "origen": "E",
+      "destino": "A",
+      "prioridad": "alta",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 6
+    },
+    {
+      "id": "S00998",
+      "origen": "I",
+      "destino": "H",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 1
+    },
+    {
+      "id": "S00999",
+      "origen": "E",
+      "destino": "I",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 12
+    },
+    {
+      "id": "S01000",
+      "origen": "J",
+      "destino": "F",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 4
+    }
+  ]
+}

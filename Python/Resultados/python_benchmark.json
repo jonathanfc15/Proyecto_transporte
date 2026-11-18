@@ -1,0 +1,23 @@
+[
+  {
+    "lenguaje": "Python",
+    "solicitudes": 10,
+    "modo": "secuencial",
+    "tiempo_ms": 1.221,
+    "tamano": "pequenas"
+  },
+  {
+    "lenguaje": "Python",
+    "solicitudes": 1000,
+    "modo": "secuencial",
+    "tiempo_ms": 40.383,
+    "tamano": "medianas"
+  },
+  {
+    "lenguaje": "Python",
+    "solicitudes": 10000,
+    "modo": "secuencial",
+    "tiempo_ms": 1942.72,
+    "tamano": "grandes"
+  }
+]

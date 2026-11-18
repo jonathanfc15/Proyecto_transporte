@@ -1,18 +1,12 @@
 {
   "vehiculos": [
-    {
-      "id": "V1",
-      "origen": "A",
-      "capacidad": 4,
-      "velocidad": 1,
-      "disponible": true
-    },
-    {
-      "id": "V2",
-      "origen": "B",
-      "capacidad": 8,
-      "velocidad": 1,
-      "disponible": true
-    }
+    {"id": "V01", "tipo": "urbano", "capacidad": 4, "conductor": "Ana López", "estado": "disponible"},
+    {"id": "V02", "tipo": "urbano", "capacidad": 6, "conductor": "Luis Pérez", "estado": "disponible"},
+    {"id": "V03", "tipo": "refrigerado", "capacidad": 8, "conductor": "María Ruiz", "estado": "disponible"},
+    {"id": "V04", "tipo": "volteo", "capacidad": 10, "conductor": "Carlos Díaz", "estado": "disponible"},
+    {"id": "V05", "tipo": "contenedor", "capacidad": 12, "conductor": "Elena Soto", "estado": "disponible"},
+    {"id": "V06", "tipo": "urbano", "capacidad": 5, "conductor": "José Mora", "estado": "ocupado"},
+    {"id": "V07", "tipo": "refrigerado", "capacidad": 9, "conductor": "Paula Cruz", "estado": "disponible"},
+    {"id": "V08", "tipo": "contenedor", "capacidad": 14, "conductor": "Raúl Vega", "estado": "disponible"}
   ]
 }

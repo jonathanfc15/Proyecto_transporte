@@ -17,13 +17,15 @@ def main() -> None:
     parser.add_argument("--red", required=True)
     parser.add_argument("--solicitudes", required=True)
     parser.add_argument("--vehiculos", required=True)
+    parser.add_argument("--modo", choices=("secuencial", "concurrente"), default="secuencial")
     args = parser.parse_args()
     resultado = procesar(
         cargar_grafo(args.red),
         cargar_solicitudes(args.solicitudes),
         cargar_vehiculos(args.vehiculos),
+        args.modo,
     )
-    print(json.dumps(resultado.a_dict(), ensure_ascii=False, indent=2))
+    print(json.dumps(resultado, ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":

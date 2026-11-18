@@ -1,18 +1,94 @@
 {
   "solicitudes": [
     {
-      "id": "S1",
-      "origen": "A",
-      "destino": "C",
-      "peso": 2,
-      "prioridad": 1
+      "id": "S00001",
+      "origen": "G",
+      "destino": "H",
+      "prioridad": "baja",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 11
     },
     {
-      "id": "S2",
+      "id": "S00002",
+      "origen": "J",
+      "destino": "E",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00003",
       "origen": "B",
-      "destino": "C",
-      "peso": 1,
-      "prioridad": 2
+      "destino": "H",
+      "prioridad": "media",
+      "criterio": "distancia",
+      "trafico": "alto",
+      "pasajeros": 11
+    },
+    {
+      "id": "S00004",
+      "origen": "C",
+      "destino": "E",
+      "prioridad": "media",
+      "criterio": "tiempo",
+      "trafico": "bajo",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00005",
+      "origen": "H",
+      "destino": "A",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00006",
+      "origen": "D",
+      "destino": "F",
+      "prioridad": "alta",
+      "criterio": "costo",
+      "trafico": "alto",
+      "pasajeros": 10
+    },
+    {
+      "id": "S00007",
+      "origen": "A",
+      "destino": "F",
+      "prioridad": "critica",
+      "criterio": "distancia",
+      "trafico": "medio",
+      "pasajeros": 3
+    },
+    {
+      "id": "S00008",
+      "origen": "G",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "tiempo",
+      "trafico": "alto",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00009",
+      "origen": "G",
+      "destino": "B",
+      "prioridad": "critica",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 5
+    },
+    {
+      "id": "S00010",
+      "origen": "G",
+      "destino": "B",
+      "prioridad": "media",
+      "criterio": "costo",
+      "trafico": "bajo",
+      "pasajeros": 5
     }
   ]
 }

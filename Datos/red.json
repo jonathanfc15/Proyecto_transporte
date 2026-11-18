@@ -1,30 +1,33 @@
 {
-  "nodos": [
-    {"id": "A", "nombre": "Terminal A"},
-    {"id": "B", "nombre": "Terminal B"},
-    {"id": "C", "nombre": "Terminal C"}
+  "ubicaciones": [
+    {"id": "A", "nombre": "Terminal Norte"},
+    {"id": "B", "nombre": "Centro Logístico"},
+    {"id": "C", "nombre": "Terminal Sur"},
+    {"id": "D", "nombre": "Almacén Industrial"},
+    {"id": "E", "nombre": "Zona Metropolitana"},
+    {"id": "F", "nombre": "Puerto Comercial"},
+    {"id": "G", "nombre": "Aeropuerto"},
+    {"id": "H", "nombre": "Parque Industrial"},
+    {"id": "I", "nombre": "Ciudad Jardín"},
+    {"id": "J", "nombre": "Terminal Oriente"}
   ],
   "conexiones": [
-    {
-      "origen": "A",
-      "destino": "B",
-      "distancia": 4,
-      "tiempo": 10,
-      "bidireccional": true
-    },
-    {
-      "origen": "B",
-      "destino": "C",
-      "distancia": 3,
-      "tiempo": 8,
-      "bidireccional": true
-    },
-    {
-      "origen": "A",
-      "destino": "C",
-      "distancia": 10,
-      "tiempo": 25,
-      "bidireccional": true
-    }
+    {"origen": "A", "destino": "B", "distancia_km": 12.5, "tiempo_base_min": 18, "costo": 8.5, "bidireccional": true},
+    {"origen": "A", "destino": "D", "distancia_km": 21.0, "tiempo_base_min": 28, "costo": 13.0, "bidireccional": true},
+    {"origen": "A", "destino": "G", "distancia_km": 18.0, "tiempo_base_min": 24, "costo": 12.0, "bidireccional": true},
+    {"origen": "B", "destino": "C", "distancia_km": 15.2, "tiempo_base_min": 21, "costo": 9.8, "bidireccional": true},
+    {"origen": "B", "destino": "E", "distancia_km": 9.5, "tiempo_base_min": 14, "costo": 7.2, "bidireccional": true},
+    {"origen": "B", "destino": "H", "distancia_km": 23.0, "tiempo_base_min": 31, "costo": 14.5, "bidireccional": true},
+    {"origen": "C", "destino": "F", "distancia_km": 19.8, "tiempo_base_min": 27, "costo": 13.5, "bidireccional": true},
+    {"origen": "C", "destino": "I", "distancia_km": 11.3, "tiempo_base_min": 16, "costo": 8.1, "bidireccional": true},
+    {"origen": "D", "destino": "E", "distancia_km": 17.4, "tiempo_base_min": 23, "costo": 11.0, "bidireccional": true},
+    {"origen": "D", "destino": "H", "distancia_km": 14.7, "tiempo_base_min": 20, "costo": 10.2, "bidireccional": true},
+    {"origen": "E", "destino": "G", "distancia_km": 10.8, "tiempo_base_min": 15, "costo": 7.8, "bidireccional": true},
+    {"origen": "E", "destino": "I", "distancia_km": 13.6, "tiempo_base_min": 19, "costo": 9.4, "bidireccional": true},
+    {"origen": "F", "destino": "I", "distancia_km": 16.1, "tiempo_base_min": 22, "costo": 10.8, "bidireccional": true},
+    {"origen": "F", "destino": "J", "distancia_km": 22.5, "tiempo_base_min": 30, "costo": 15.0, "bidireccional": true},
+    {"origen": "G", "destino": "J", "distancia_km": 20.3, "tiempo_base_min": 26, "costo": 13.8, "bidireccional": true},
+    {"origen": "H", "destino": "J", "distancia_km": 18.8, "tiempo_base_min": 25, "costo": 12.4, "bidireccional": true},
+    {"origen": "I", "destino": "J", "distancia_km": 12.9, "tiempo_base_min": 17, "costo": 8.9, "bidireccional": true}
   ]
 }

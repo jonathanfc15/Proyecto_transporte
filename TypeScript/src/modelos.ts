@@ -13,6 +13,7 @@ export class Arista {
     public readonly distancia: number,
     public readonly tiempo?: number,
     public readonly bidireccional = true,
+    public readonly costo = 0,
   ) {
     if (!Number.isFinite(distancia) || distancia < DISTANCIA_MINIMA)
       throw new ValidacionError("La distancia no puede ser negativa");
